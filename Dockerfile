@@ -1,6 +1,6 @@
 FROM node
 
-MAINTAINER nicejade
+MAINTAINER kevin
 
 COPY . /app
 
